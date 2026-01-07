@@ -1,4 +1,4 @@
-# Atualização
+# Notas da Atualização
 
-- teste
-- teste2
+- Correção de bugs
+- Melhorias no desempenho
