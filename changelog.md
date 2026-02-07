@@ -1,4 +1,3 @@
 # Notas da Atualização
 
-- Correção de bugs
-- Melhorias no desempenho
+- Ajuste no cálculo total na tela de detalhes do cliente para considerar os juros.
