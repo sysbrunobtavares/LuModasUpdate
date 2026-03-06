@@ -1,3 +1,3 @@
 # Notas da Atualização
 
-- Ajuste na exibição dos itens do cliente
+- Removido a opção 'A VISTA'
