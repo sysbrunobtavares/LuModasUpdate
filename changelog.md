@@ -1,3 +1,4 @@
 # Notas da Atualização
 
-- Removido a opção 'A VISTA'
+- Correção no backup
+- Correção nos itens de venda
