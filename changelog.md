@@ -1,4 +1,3 @@
 # Notas da Atualização
 
-- Correção no backup
-- Correção nos itens de venda
+- Ajuste na exibição de itens do carrinho
