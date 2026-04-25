@@ -1,3 +1,3 @@
 # Notas da Atualização
 
-- Ajuste no pagamento parcial da venda
+- Corrigir busca de cliente por nome com acentuação
