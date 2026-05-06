@@ -1,3 +1,3 @@
 # Notas da Atualização
 
-- Ajuste no pagamento parcial de parcela
+- Correção do erro que gerava venda duplicada
