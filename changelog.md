@@ -1,3 +1,3 @@
 # Notas da Atualização
 
-- Correção do erro que gerava venda duplicada
+- Correção do erro que mostrava status do cliente incorreto
