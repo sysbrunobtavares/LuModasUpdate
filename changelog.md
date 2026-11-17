@@ -1,3 +1,3 @@
 # Notas da Atualização
 
-- Correção da duplicacao de parcelas na finalizacao da venda
+- Correção do erro da tela do cliente
